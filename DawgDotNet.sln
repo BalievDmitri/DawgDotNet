@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DawgDotNet", "DawgDotNet\DawgDotNet.csproj", "{F749B784-9038-45D9-AC59-C7EC9D44DCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F749B784-9038-45D9-AC59-C7EC9D44DCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F749B784-9038-45D9-AC59-C7EC9D44DCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F749B784-9038-45D9-AC59-C7EC9D44DCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F749B784-9038-45D9-AC59-C7EC9D44DCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95394166-8C7E-45CB-B039-2A7424A3B82C}
+	EndGlobalSection
+EndGlobal
